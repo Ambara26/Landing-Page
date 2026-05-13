@@ -1,0 +1,14 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#EFF6FF"/>
+  <rect x="70" y="70" width="1060" height="490" rx="44" fill="white"/>
+  <rect x="116" y="118" width="92" height="92" rx="24" fill="#2563EB"/>
+  <path d="M137 181L155 138H169L187 181H173L170 172H154L151 181H137Z" fill="white"/>
+  <text x="116" y="288" fill="#0F172A" font-family="Arial, sans-serif" font-size="64" font-weight="700">Jasa Implementasi</text>
+  <text x="116" y="366" fill="#2563EB" font-family="Arial, sans-serif" font-size="64" font-weight="700">Accurate Online</text>
+  <text x="116" y="438" fill="#475569" font-family="Arial, sans-serif" font-size="30">Setup, training, inventory, multi gudang, migrasi data.</text>
+  <rect x="772" y="140" width="276" height="316" rx="28" fill="#DBEAFE"/>
+  <rect x="808" y="188" width="202" height="52" rx="14" fill="#2563EB"/>
+  <rect x="808" y="272" width="202" height="24" rx="12" fill="white"/>
+  <rect x="808" y="322" width="156" height="24" rx="12" fill="white"/>
+  <rect x="808" y="372" width="182" height="24" rx="12" fill="white"/>
+</svg>
